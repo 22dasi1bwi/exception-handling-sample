@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: exception.handling.sample
+---
+testFramework: spek
+sourceLanguage: kotlin
